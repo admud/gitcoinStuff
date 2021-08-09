@@ -1,7 +1,7 @@
 test
 
 ## 1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
-![]SmartContractCallScreenshot.PNG)
+![](SmartContractCallScreenshot.PNG)
 ## 2. The transaction hash from the console output (in text format).
 0x056d0be6949c0ffcabb1ce54d1325cb36809e98a629e02fe13a57f4c75937f82
 ## 3. The contract address that you called (in text format).
